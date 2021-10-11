@@ -50,8 +50,8 @@ brew 'yarn'
 
 # Apps
 cask 'setapp'
-cask '1password'
-cask 'google-chrome'
+# cask '1password'
+# cask 'google-chrome'
 cask 'visual-studio-code'
 
 # Quicklook
